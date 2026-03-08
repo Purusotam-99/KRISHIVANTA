@@ -3,13 +3,13 @@ Smart Crop Intelligence & Farmer Community
 KRISHIVANTA is a digital platform designed to empower farmers with intelligent crop guidance, market insights, and a collaborative farmer community.
 The platform aims to simplify agricultural decision-making and improve farmers' productivity and income.
 🚀 Live Website
-🔗 https://purusotam-99.github.io/KRISHIVANTA/⁠�
+🔗 https://purusotam-99.github.io/KRISHIVANTA/⁠
 🎥 Demo
 Watch the working demo of KRISHIVANTA here:
-🔗 https://drive.google.com/drive/folders/1UlPXHH6Lo03cYPyJxIEjViy9XW9bxJsj⁠�
+🔗 https://drive.google.com/drive/folders/1UlPXHH6Lo03cYPyJxIEjViy9XW9bxJsj⁠
 📊 Presentation
 View our project presentation:
-🔗 https://drive.google.com/drive/folders/1UlPXHH6Lo03cYPyJxIEjViy9XW9bxJsj⁠�
+🔗 https://drive.google.com/drive/folders/1UlPXHH6Lo03cYPyJxIEjViy9XW9bxJsj⁠
 ❗ Problem Statement
 Farmers face several challenges:
 • Lack of real-time crop guidance
